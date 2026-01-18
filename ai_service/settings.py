@@ -56,6 +56,9 @@ class ApiConfig(BaseSettings):
     llm_detail: str
     prompts: Optional[PromptsConfig] = None
 
+    # EMBEDDING
+    embedding_model: str
+
 
 settings = ApiConfig()
 settings.prompts = PromptsConfig.load_from_folder()

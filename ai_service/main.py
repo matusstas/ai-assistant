@@ -3,7 +3,7 @@ from openai import OpenAI
 from fastapi import FastAPI, UploadFile, File
 
 from ai_service.settings import settings
-from ai_service.models import ImageToTextReponse
+from ai_service.models import ImageToTextReponse, TextToEmbeddingRequest, TextToEmbeddingReponse
 
 client_openai = OpenAI(api_key=settings.api_key_openai)
 app = FastAPI()
@@ -45,3 +45,18 @@ async def image_to_text(
     )
 
     return ImageToTextReponse(text=response.output_text)
+
+
+@app.post("/api/text-to-embedding")
+async def text_to_embedding(
+    req: TextToEmbeddingRequest,
+) -> TextToEmbeddingReponse:
+    """
+    TODO
+    """
+    response = client_openai.embeddings.create(
+        input=req.text,
+        model=settings.embedding_model,
+    )
+
+    return TextToEmbeddingReponse(embedding=response.data[0].embedding)

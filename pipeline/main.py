@@ -14,9 +14,11 @@ async def _run_pipeline(
         folder_root=settings.folder_root,
         folder_data_images=settings.folder_data_images,
         folder_data_text=settings.folder_data_text,
+        folder_data_embeddings=settings.folder_data_embeddings,
         url_base=settings.url_base,
         dpi=settings.dpi,
     )
+
 
 
 app = typer.Typer()

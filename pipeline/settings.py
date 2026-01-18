@@ -17,6 +17,7 @@ class ApiConfig(BaseSettings):
     folder_root: str
     folder_data_images: str
     folder_data_text: str
+    folder_data_embeddings: str
     dpi: int
 
     # AI SERVICE
