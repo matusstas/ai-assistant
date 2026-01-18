@@ -1,13 +1,21 @@
 import asyncio
 import typer
 
+from pipeline.helpers import extract_pdf_all
+from pipeline.settings import settings
+
 
 async def _run_pipeline(
 ) -> None:
     """
     TODO
     """
-    print("test")
+    extract_pdf_all(
+        folder_cloud_storage=settings.folder_cloud_storage,
+        folder_data=settings.folder_data,
+        dpi=settings.dpi,
+    )
+
 
 
 app = typer.Typer()
