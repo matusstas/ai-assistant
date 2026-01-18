@@ -14,9 +14,13 @@ class ApiConfig(BaseSettings):
         extra="ignore",
     )
     # MISCELLANEOUS
-    folder_cloud_storage: str
-    folder_data: str
+    folder_root: str
+    folder_data_images: str
+    folder_data_text: str
     dpi: int
+
+    # AI SERVICE
+    url_base: str
 
 
 settings = ApiConfig()

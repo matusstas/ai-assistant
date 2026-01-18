@@ -2,6 +2,25 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "AI SERVICE",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "module": "uvicorn",
+            "console": "integratedTerminal",
+            "args": [
+                "ai_service.main:app",
+                "--host",
+                "0.0.0.0",
+                "--port",
+                "8080",
+                "--reload"
+            ],
+            "env": {
+                "PYTHONWARNINGS": "ignore"
+            }
+        },
+        {
             "name": "PIPELINE",
             "type": "debugpy",
             "request": "launch",
