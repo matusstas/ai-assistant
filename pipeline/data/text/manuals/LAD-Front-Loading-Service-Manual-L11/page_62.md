@@ -1,4 +1,3 @@
-```markdown
 # 7 CHECK POINT OF CIRCUIT
 
 Before repairing, use multimeter to judge circuit stand of fail.
@@ -13,4 +12,3 @@ Before repairing, use multimeter to judge circuit stand of fail.
 | 6  | NTC          |         | Measuring resistance.                              | Resistance value range 4.8kΩ±8%@25°C          | PASS                                                      |
 | 7  | BLDC Motor   |         | Measure the resistance of black pin ~ brown pin and black pin ~ blue pin | Resistance value range 3.65-4.05Ω             | PASS                                                      |
 | 8  | Universal Motor |      | Measure the resistance of the toroids              | Resistance value range PIN5~PIN10 1.3±10Ω     | PASS                                                      |
-```

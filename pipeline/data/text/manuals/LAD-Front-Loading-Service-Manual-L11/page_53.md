@@ -1,4 +1,3 @@
-```markdown
 # 6 TROUBLESHOOTING
 
 ## 2. Door non-locked & its maintenance
@@ -18,4 +17,3 @@
         - Connect the PCB and door lock correctly
   - **N**
     - Close the door correctly
-```

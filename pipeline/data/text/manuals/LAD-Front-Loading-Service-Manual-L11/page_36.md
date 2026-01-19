@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E60
@@ -13,4 +12,3 @@
           - Whether the PCB is damaged?
             - **Yes:** Replace the PCB and make sure the terminals are connected correctly
             - **No:** Replace the motor and make sure the terminals are ok
-```

@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E30
@@ -21,4 +20,3 @@
         - **Whether the door lock is well**
           - No: Change the door lock
           - Yes: Check the wire connector before replacing PCB.
-```

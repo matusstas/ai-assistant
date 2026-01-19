@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E12
@@ -15,4 +14,3 @@ E12
 ![Fig.12](img_url) Rotating the sensor to remove the water level sensor from the box
 
 ![Fig.13](img_url) Remove the connection between the black pipe and the water level sensor
-```

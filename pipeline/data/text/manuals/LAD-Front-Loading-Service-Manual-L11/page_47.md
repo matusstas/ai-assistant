@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E64
@@ -23,4 +22,3 @@
 The biggest possibility of this problem is:
 1. The harness and motor or harness and main PCB are not properly assembled.
 2. The motor is defective. It is less likely that other main PCB are defective and there is a broken wire somewhere.
-```

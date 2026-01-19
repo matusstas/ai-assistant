@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT TESTING (CONT.)
 
 - If voltage corresponds to setting, go to step 10.
@@ -62,4 +61,3 @@ This test checks the motor, motor relay, motor windings, wiring, and start capac
 ---
 
 **Figure - Drive Motor Strip Circuit**
-```

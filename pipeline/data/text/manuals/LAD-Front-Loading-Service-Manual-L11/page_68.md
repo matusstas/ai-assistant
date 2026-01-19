@@ -1,4 +1,3 @@
-```markdown
 # 8 UNPACKING WAYS OF MAIN PARTS
 
 ### 11. Undo the absorber pin from the cabinet
@@ -11,4 +10,3 @@ II. Remove 6 screws pull out the facade counterweight.
 
 Undo the panel support  
 Remove two screws fixing the panel support, and then remove it.
-```

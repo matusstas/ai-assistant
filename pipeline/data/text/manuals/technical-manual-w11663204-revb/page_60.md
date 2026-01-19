@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 10. Remove the spring from the shaft after removing the splutch assembly.
@@ -38,4 +37,3 @@
 9. Squeeze the Corbin style clamp and move it down the hose.
 
 **NOTE:** Not all the water will be removed so be ready to catch the remaining water in a container.
-```

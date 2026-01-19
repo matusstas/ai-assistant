@@ -1,4 +1,3 @@
-```markdown
 ## Section 2: Diagnostics and Troubleshooting
 
 This section provides diagnostics and troubleshooting information for the “Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer.”
@@ -12,4 +11,3 @@ This section provides diagnostics and troubleshooting information for the “May
 - **Quick Overview Test Mode**
 - **Manual Overview Test Mode**
 - **Troubleshooting Guide**
-```

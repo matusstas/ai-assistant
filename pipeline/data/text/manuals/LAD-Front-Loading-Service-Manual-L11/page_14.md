@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E10
@@ -18,4 +17,3 @@ E10
 2. Push back the top cover plate 15mm until it leaves away from the control panel and then take it down. (Fig.7)  
 3. Measure the resistance value of the water inlet valve, 3-6kΩ is OK. (Fig.8)  
 4. If the resistance value of the water inlet valve is not well, change the water inlet valve. (Fig.9)
-```

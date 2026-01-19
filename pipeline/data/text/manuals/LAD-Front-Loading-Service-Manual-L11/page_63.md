@@ -1,4 +1,3 @@
-```markdown
 # 8 UNPACKING WAYS OF MAIN PARTS
 
 ## UNPACKING WAYS OF MAIN PARTS
@@ -16,4 +15,3 @@
 12. Undo the drum tub assembly
 13. Undo the absorber pin from the drum
 14. Undo the heater and NTC
-```

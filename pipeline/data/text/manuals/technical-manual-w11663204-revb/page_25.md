@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 ## For Service Technician Use Only
 
@@ -39,4 +38,3 @@ Press the START button to begin the Quick Overview Test. See page 2-5 to access 
 | Basket must stop spinning (0 RPM) before test continues to next phase. Time for basket to stop spinning may vary from 30 seconds up to 2 minutes. |
 | LID WILL UNLOCK AND CYCLE COMPLETES              | 8                   | 2         | 1         |
 | If lid does not unlock, go to Manual Overview Test: Lid Lock. | ~3 Min |
-```

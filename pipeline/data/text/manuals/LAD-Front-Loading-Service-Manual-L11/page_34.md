@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E50
@@ -22,4 +21,3 @@ Replace the main PCB and check whether the problem can be solved
 3. Replace the main PCB. (Fig.7)
 
 ![Fig.5](#) ![Fig.6](#) ![Fig.7](#)
-```

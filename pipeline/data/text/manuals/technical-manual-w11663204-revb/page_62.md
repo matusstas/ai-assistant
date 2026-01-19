@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 13. Support the transmission. Use a large flat blade screwdriver to pry along the top edge of the transmission until it is loose.  
@@ -24,4 +23,3 @@
 16. This is seal orientation as it faces the tub.  
 17. This is seal orientation as it faces the transmission.  
 18. The seal is pressed onto the transmission shaft at the factory. A new transmission will come with a new seal pressed on.  
-```

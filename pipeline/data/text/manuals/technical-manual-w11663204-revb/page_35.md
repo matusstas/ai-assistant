@@ -1,4 +1,3 @@
-```markdown
 9. Main Control has malfunctioned.
    a. Unplug washer or disconnect power.
    b. Replace the main control.
@@ -76,4 +75,3 @@ This test checks connections, shifter motor, switch, and optical sensor.
 **Figure - Shifter Assembly Strip Circuit**
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer  ∙  3-5
-```

@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -53,4 +52,3 @@ Pressing the START button will activate/deactivate each output. When the output 
 | - If lid is not closed, status LEDs will flash on and off. |
 | **IMPORTANT:** Water in tub must be drained before test. |
 | - If motor does not spin, go to **TEST #3a: Drive System – Shifter and TEST #3b: Drive System – Motor.** |
-```

@@ -1,4 +1,3 @@
-```markdown
 ## 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ### E10
@@ -11,4 +10,3 @@
 |                  |                                         | Water faucet is not turned on or the screens on the hoses are blocked.                                                                               |
 |                  |                                         | The screens inside the water inlet valve are blocked or the water inlet valve is damaged.                                                            |
 |                  |                                         | Something is wrong with water level sensor.                                                                                                          |
-```

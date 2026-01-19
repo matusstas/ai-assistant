@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 ## For Service Technician Use Only
 
@@ -40,4 +39,3 @@ Some tests will require accessing components. See Figures for **Component Locati
 |                                      | Drain hose installation.                    | Check for proper drain hose installation.        |
 |                                      | Valve problem.                              | See **TEST #2: Valves.**                         |
 |                                      | Main control problem.                       | See **TEST #1: Main Control.**                   |
-```

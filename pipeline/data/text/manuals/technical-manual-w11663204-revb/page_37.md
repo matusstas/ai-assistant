@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT TESTING (CONT.)
 
 8. With a voltmeter set to AC, connect black probe to motor relay pin 2, red probe to 16-7 (CW Winding).
@@ -97,4 +96,3 @@ d. Replace the main control.
 - Rotary Switch #3 – toggles (3) RINSE LED
 - Rotary Switch #4 – toggles (4) FINAL SPIN LED
 - Cycle Select Knob – toggles (5) DONE LED
-```

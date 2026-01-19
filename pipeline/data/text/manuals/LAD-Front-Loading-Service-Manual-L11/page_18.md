@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E12
@@ -19,4 +18,3 @@ Whether the water is in without power
 ![Fig.2 Remove the water valve terminal](#)
 
 ![Fig.3 Remove the water valve connection, and change the water valve](#)
-```

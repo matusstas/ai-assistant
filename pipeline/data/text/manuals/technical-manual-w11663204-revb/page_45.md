@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 10. Components located in the console are the:
@@ -37,4 +36,3 @@ B. Clip
 5. Pull the wire harness connector off the hot water inlet valve.  
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer ■ 4-3
-```

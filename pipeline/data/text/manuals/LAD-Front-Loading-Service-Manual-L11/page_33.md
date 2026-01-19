@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E50
@@ -23,4 +22,3 @@ Check whether the motor operation is blocked, such as whether there are foreign 
 ① Check whether the motor operation is blocked, such as whether there are foreign matters stuck in the motor, which affect the motor rotation.
 
 ![Fig.2](image_link)
-```

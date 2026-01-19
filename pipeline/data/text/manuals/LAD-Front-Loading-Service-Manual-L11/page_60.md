@@ -1,4 +1,3 @@
-```markdown
 # 6 TROUBLESHOOTING
 
 ## Malfunction and solution
@@ -15,4 +14,3 @@
 | The washing machine does not fill                         | Open the water tap. Check the selection of the procedure. Check the water. Pressure to see if the water pressure is insufficient. Put through the feed-water. Close the washing machine's door. To check if the inlet water pipe is bent or blocked. |
 | The washing machine fills and empties at the same time    | Make sure the end of the drainage pipe to be higher. Check if the drainage pipe and sewage have been sealed, if they have been, there will be the poor ventilation to cause the siphon age effect. |
 | No drainage of the washing machine                        | Check if the drainage pump is blocked. Check if the drainage pipe is bent or blocked. Check the height of the drainage nozzle, make sure it is 0.6-1 meter from the bottom of the washing machine. |
-```

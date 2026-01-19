@@ -1,4 +1,3 @@
-```markdown
 # 6 TROUBLESHOOTING
 
 ## 7. Drum non-rotating malfunction maintenance
@@ -18,4 +17,3 @@
         - **Reliable the connection**
   - N
     - **Installed the belt correctly**
-```

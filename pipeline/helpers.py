@@ -133,3 +133,45 @@ def process_pdf_all(
                 url_base=url_base,
                 dpi=dpi,
             )
+
+################################################################################
+# STAGE 2                                                                      #
+################################################################################
+
+
+def get_embeddings(
+    folder_data_embeddings: str,
+) -> List[dict]:
+    """
+    TODO
+    """
+    embeddings = []
+
+    folder_embedding = Path(folder_data_embeddings)
+    for subfolder in folder_embedding.iterdir():
+        if not subfolder.is_dir():
+            continue
+
+        for file in subfolder.iterdir():
+            if not file.is_dir():
+                continue
+
+            for page in file.iterdir():
+                if not page.is_file():
+                    continue
+
+                path_text = Path(str(page).replace("embeddings/", "text/")).with_suffix(".md")
+                with open(path_text, "r") as f:
+                    text = f.read()
+                    
+                with open(page, "rb") as f:
+                    embedding = pickle.load(f)
+                    embeddings.append({
+                        "category": subfolder.stem,
+                        "file": file.stem,
+                        "page_number": int(page.stem.split("_")[-1]),
+                        "embedding": embedding,
+                        "text": text,
+                    })
+
+        return embeddings

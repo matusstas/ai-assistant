@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 15. Two top panel brackets are secured to the top of the top support with 1/4" hex head screws.
@@ -21,4 +20,3 @@
 7. Push the plug and wire down into the base of the washer.
 8. Reinstall the console cover with two (2) T20 security screws so it won't fall when opening the top panel.
 9. Open washer top panel.
-```

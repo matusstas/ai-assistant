@@ -1,4 +1,3 @@
-```markdown
 # Component Location (cont.)  
 ## Drive System and Drain Pump
 
@@ -11,4 +10,3 @@ F. Drain Hose
 G. Drain Pump  
 H. Shifter Assembly Connector  
 I. Shifter Assembly  
-```

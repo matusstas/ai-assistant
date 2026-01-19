@@ -1,4 +1,3 @@
-```markdown
 # Troubleshooting Tests
 
 ## TEST #1: Main Control
@@ -43,4 +42,3 @@ This test checks for incoming and outgoing supplies to and from the main control
 ---
 
 *Not available on all models.*
-```

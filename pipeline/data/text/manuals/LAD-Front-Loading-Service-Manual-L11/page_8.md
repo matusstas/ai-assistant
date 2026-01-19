@@ -1,4 +1,3 @@
-```markdown
 ## 3 WIRING DIAGRAM/PCB LAYOUT
 
 3.1 During the failure diagnosing and changing components, please do it as following:
@@ -10,4 +9,3 @@
 3) The design of PCB is out of failure, so prohibit to change the PCB panel according to its alarm. Please do it according to the failure diagnose program.
 
 ![POWER SUPPLY PLUG](attachment:illustration_of_power_supply_plug)
-```

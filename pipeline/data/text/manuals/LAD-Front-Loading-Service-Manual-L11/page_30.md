@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E50
@@ -13,4 +12,3 @@
     1. The motor speed signal cannot be detected;
     2. Due to the abnormality of the main PCB, the temperature of the motor inverter PCB is abnormal, and the motor temperature is misjudged to be too high;
     3. The motor inverter read the information (Flash) incorrectly due to the defective motor inverter PCB.
-```

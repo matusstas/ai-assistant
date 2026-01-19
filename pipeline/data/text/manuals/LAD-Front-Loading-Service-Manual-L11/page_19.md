@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E12
@@ -18,4 +17,3 @@
 | Fig.7  | Whether the air pipe is damaged |
 | Fig.8  | Remove the connection between the black pipe and the tub, remove the connection between the black pipe and the pump |
 | Fig.9  | Remove the connection between the black pipe and the water level sensor |
-```

@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E60
@@ -22,4 +21,3 @@ E60
 1. Disassemble the 2 screws of the top cover plate. (Fig.4)
 2. Push back the top cover plate 15mm until it leave away from the control panel and then take it down. (Fig.5)
 3. Check the PCB and replace it if it is damaged. (Fig.6)
-```

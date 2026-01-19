@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E60
@@ -11,4 +10,3 @@
 |                  |                                                       | The PCB is damaged            |
 |                  |                                                       | The motor terminals is loose   |
 |                  |                                                       | The motor is damaged          |
-```

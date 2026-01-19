@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 **E62**
@@ -17,4 +16,3 @@
 8. Replace a new PCB and reassemble the washing machine.
 
 ![Fig.1](attachment) ![Fig.2](attachment) ![Fig.3](attachment) ![Fig.4](attachment) ![Fig.5](attachment) ![Fig.6](attachment)
-```

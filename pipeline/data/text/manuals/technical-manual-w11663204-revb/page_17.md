@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -56,4 +55,3 @@ These tests allow factory or service personnel to test and verify all inputs to 
    d. Rotate cycle selector knob counterclockwise one click.
 
    e. Rotate cycle selector knob clockwise one click.
-```

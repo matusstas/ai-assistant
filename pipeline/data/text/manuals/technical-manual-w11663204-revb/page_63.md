@@ -1,4 +1,3 @@
-```markdown
 ### COMPONENT ACCESS (CONT.)
 
 9. Press the locking tab and disconnect 12 pin connector for the lower wire harness.
@@ -33,4 +32,3 @@
 28. The wire harness is attached to the side of the outer tub with two (2) 5/16" or (8 mm) hex head screws. These screws have high/low threads for use in plastic.  
   
 29. Pull air hose off air dome on the side of the outer tub.
-```

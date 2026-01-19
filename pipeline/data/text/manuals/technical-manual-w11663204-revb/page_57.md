@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 ## Drive Belt
@@ -23,4 +22,3 @@
 6. Pull wire harness connector off capacitor.
 7. Lift the bottom end of the capacitor to release the tab.
 8. Twist the capacitor approximately 45 degrees and pull it out of the hole in the transmission housing.
-```

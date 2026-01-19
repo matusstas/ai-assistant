@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -52,4 +51,3 @@ See page 2-4 to access Fault Code Display Mode.
 NOTE: If the POWER LED is ON, the fault code is represented; if OFF, the error code is represented.
 
 2-8 **Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer**
-```

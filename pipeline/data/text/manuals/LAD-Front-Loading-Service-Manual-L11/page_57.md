@@ -1,4 +1,3 @@
-```markdown
 # 6 TROUBLESHOOTING
 
 6. Water inlet overflow malfunction maintenance
@@ -14,4 +13,3 @@
             - Change pressure switch
       - **N**
         - Change the inlet valve
-```

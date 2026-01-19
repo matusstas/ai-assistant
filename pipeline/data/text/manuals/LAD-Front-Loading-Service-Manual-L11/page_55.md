@@ -1,4 +1,3 @@
-```markdown
 6 TROUBLESHOOTING
 
 4. Over heating
@@ -10,4 +9,3 @@ Over heating
     - Change the PCB
   - N
     - Change the NTC
-```

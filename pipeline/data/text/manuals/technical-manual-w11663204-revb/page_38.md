@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT TESTING (CONT.)
 
 **NOTE:** Status LED names may vary between makes and models. Use LED identification.
@@ -105,4 +104,3 @@ Perform the following checks if washer does not drain.
 Resistance should be 14–25 Ω.
 - If values are open or out of range, go to step 7.
 - If values are correct, go to step 11.
-```

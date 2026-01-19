@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E10
@@ -17,4 +16,3 @@ Step 4 Check the water level sensor
 | Fig.11  |             |
 | Fig.12  |             |
 | Fig.13  |             |
-```

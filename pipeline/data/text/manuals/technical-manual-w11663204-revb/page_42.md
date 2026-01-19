@@ -1,5 +1,3 @@
-```markdown
 # COMPONENT TESTING
 
 ## Notes
-```

@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -67,4 +66,3 @@ Press the START button to begin washer calibration. All status LEDs will turn on
 - Lid must be down to perform test.
 - Basket must be empty to perform test (no water or clothes).
 - Calibration cycle runs for approximately 2–4 minutes. Cycle completes when door unlocks and washer enters standby mode.
-```

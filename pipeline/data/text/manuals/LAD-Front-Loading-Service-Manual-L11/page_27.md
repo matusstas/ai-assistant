@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E30
@@ -20,4 +19,3 @@ E30
 **Step 4: Check the wire connector and PCB**
 1. Check whether the wire and PCB connect well. (Fig.5)
 2. Reconnect the wire connector or replace the PCB.
-```

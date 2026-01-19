@@ -27,4 +27,3 @@ Replace the motor and check whether the problem can be solved
 
 - **Fig.7**
 - **Fig.8**
-```

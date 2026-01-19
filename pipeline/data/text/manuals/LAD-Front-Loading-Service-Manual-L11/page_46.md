@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E64
@@ -9,4 +8,3 @@
 |                  |                                                                                                     | The motor inverter PCB is damaged (the components are damaged)                                           |
 |                  |                                                                                                     | Defective main PCB                                                                                       |
 |                  |                                                                                                     | Broken harness (wires connecting main PCB and motor inverter)                                            |
-```

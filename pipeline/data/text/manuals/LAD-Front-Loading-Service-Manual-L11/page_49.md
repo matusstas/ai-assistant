@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E64
@@ -18,4 +17,3 @@
 **Replace the harness and check whether the problem can be solved**
 1. Close the tap and disassemble the 2 screws of the top cover plate. (Fig.1)
 2. To replace the main harness, remove all housing of the main harness. And replace the main harness with a new one.
-```

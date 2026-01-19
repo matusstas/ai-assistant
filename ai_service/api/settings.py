@@ -6,6 +6,9 @@ from typing import Optional
 from pydantic import BaseModel
 
 
+PATH_PROMPTS = "ai_service/prompts"
+
+
 class PromptsConfig(BaseModel):
     """
     Prompts configuration
@@ -16,7 +19,7 @@ class PromptsConfig(BaseModel):
         Dynamically loads all prompt files from the directory `ai_service/prompts`
         and assigns their content as attributes in the config.
         """
-        prompts_directory = Path("ai_service/prompts")
+        prompts_directory = Path(PATH_PROMPTS)
         prompts = {}
 
         # Check if the directory exists

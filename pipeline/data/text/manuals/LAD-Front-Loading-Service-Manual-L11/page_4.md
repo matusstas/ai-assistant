@@ -1,4 +1,3 @@
-```markdown
 # 1 PRECAUTION
 
 ## 1.3 CAUTIONS FOR SAFETY
@@ -23,4 +22,3 @@
 | ⚠️ OUT OF CHILD      | Advise the customer to keep children out of the work place. Children may be injured with a tool or a disassembled part.                                |
 | 🔌 UNPLUG POWER      | Unplug power cord for the work such as disassembling which is not unnecessary to power on. Do not hold the plug by a wet hand. Failing to unplug may cause an electric shock. |
 | ⚠️ USE REPAIR PARTS   | Use the specified repair parts when repairing the product. Otherwise, a malfunction or a defect may occur. Also, a short circuit, ignition or other danger to the customer may occur. |
-```

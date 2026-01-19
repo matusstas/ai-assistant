@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT TESTING (CONT.)
 
 ## Safety
@@ -40,4 +39,3 @@ ESD problems are present everywhere. ESD may damage or weaken the electronic con
 ---
 
 3-2 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer
-```

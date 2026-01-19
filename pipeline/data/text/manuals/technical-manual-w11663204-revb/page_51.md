@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 10. Pry the three (3) spring clips out to release the wire harness from the right edge of the top.
@@ -22,4 +21,3 @@
 16. After selecting a cycle and pressing the Start button, the lid will lock only during the spin portion of the cycles.
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer ■ 4-9
-```

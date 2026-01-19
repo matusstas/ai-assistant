@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -67,4 +66,3 @@ The status LEDs flash on and off.
 2. To exit Fault Code Display Mode:  
    - Toggle cycle selector knob until the status LEDs flash ON and OFF.  
    - Press and hold the START button for 3 seconds to exit Fault Code Display Mode.  
-```

@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E62
@@ -11,4 +10,3 @@ E62
            ↓
   Replace the motor
   ```
-```

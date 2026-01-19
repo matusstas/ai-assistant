@@ -1,9 +1,7 @@
-```markdown
 # 6 TROUBLESHOOTING
 
 5. Maintenance of non-drain or drain exceed the setting time
 
-```
 Non-drain or overtime drain
   - Y
     - Whether the Drain Hose is hung up beyond the height of 100cm
@@ -15,5 +13,3 @@ Non-drain or overtime drain
               - N → Change the PCB
               - Y → Change the drain pump
           - Y → Clean the filter
-```
-```

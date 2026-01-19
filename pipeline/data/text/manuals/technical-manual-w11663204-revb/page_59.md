@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 ## Shifter
@@ -26,4 +25,3 @@
    - C. Splutch Gear
 8. Rotate splutch ring to release four (4) tabs from slots in the transmission housing. The splutch ring slides off the splutch gears.
 9. The actuator ring slides off of the splutch gears.
-```

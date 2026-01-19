@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E80
@@ -13,4 +12,3 @@
 
 #### Step 3: Display panel communication terminal failure
 1. Check whether the communication terminal is damaged, if it’s damaged the E80 warning will occur. It’s recommended that the user need to repair or change the main control board. (Fig.3)
-```

@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 11. Remove 7/16" bolt from agitator plate. Lift to remove.
@@ -25,4 +24,3 @@
 7. Remove the clothes guard.
 
 > **NOTE:** When reinstalling tub ring, place feature for old bleach dispenser in front left corner for proper orientation of tub ring. There is also the word "Front" molded into underside of tub ring for proper orientation.
-```

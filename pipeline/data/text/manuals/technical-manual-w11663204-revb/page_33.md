@@ -1,4 +1,3 @@
-```markdown
 # Wiring Diagram
 
 **IMPORTANT:** Electrostatic discharge may cause damage to machine control electronics. 
@@ -89,4 +88,3 @@
 - Fuse Resistor
 - Thermal
 - Temp Sensor
-```

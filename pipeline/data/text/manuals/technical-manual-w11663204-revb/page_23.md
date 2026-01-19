@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ### For Service Technician Use Only
@@ -42,4 +41,3 @@
 | **F7E6 – MOTOR FAULT**                                                                                            | F 4 2 1 4 2  |              |
 | Indicates an open clockwise or counterclockwise circuit of the motor.                                              |              |              |
 | **NOTE**: If the POWER LED is ON, the fault code is represented; if OFF, the error code is represented.           |
-```

@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -37,4 +36,3 @@ This cycle is used by the factory to test functions and intervals specifically f
 ---
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer
-```

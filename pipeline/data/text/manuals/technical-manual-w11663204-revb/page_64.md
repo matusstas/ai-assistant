@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS
 
 ### Cabinet
@@ -14,4 +13,3 @@
 7. Remove the top support bracket.
 8. Unscrew the feet from bottom of cabinet.
 
-```

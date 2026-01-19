@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E21
@@ -27,4 +26,3 @@
 - **Whether the water level sensor is well?**
   - Yes ➔ Check the wire connector and harness before replacing PCB.
   - No ➔ Change the water level sensor
-```

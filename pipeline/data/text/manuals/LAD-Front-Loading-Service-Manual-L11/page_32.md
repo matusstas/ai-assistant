@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E50
@@ -26,4 +25,3 @@ Check whether the voltage used by the machine is reasonable:
 The maximum possibility of this problem is:
 1. The voltage used by the machine exceeds the recommended voltage range of the machine;
 2. The motor is defective, causing E50 alarm, and the motor needs to be replaced.
-```

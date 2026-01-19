@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 9. Pull the pressure switch air hose off the connection on the CCU.
@@ -38,4 +37,3 @@ Failure to do so can result in death or electrical shock.
 ---
 
 4-6 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer
-```

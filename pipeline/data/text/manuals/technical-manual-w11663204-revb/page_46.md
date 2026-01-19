@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 6. Pull the wire harness connector off the cold water inlet valve.
@@ -31,4 +30,3 @@
 3. Remove the Water Inlet Valve and Thermistor.
 4. Remove the Motor Relay.
 5. Remove two (2) 5/16" or 8 mm hex head screws securing the transformer to the top of the washer.
-```

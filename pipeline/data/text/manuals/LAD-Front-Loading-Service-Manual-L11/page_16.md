@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E12
@@ -13,4 +12,3 @@
 |                  |                                                                                                                                                     | The air pipe may be damaged.             |
 |                  |                                                                                                                                                     | Inner wire may be damaged.               |
 |                  |                                                                                                                                                     | Something is wrong with PCB.             |
-```

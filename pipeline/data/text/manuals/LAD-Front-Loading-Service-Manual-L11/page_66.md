@@ -1,4 +1,3 @@
-```markdown
 # 8 UNPACKING WAYS OF MAIN PARTS
 
 ## 6. Undo the detergent box
@@ -14,4 +13,3 @@ III. Release the clamp fixing the inlet valve and the inlet hose, and then pull 
 I. Pry the raised point out with straight screwdriver.  
 II. Rotate the water sensor by 90 degrees counterclockwise.  
 III. Pull the water sensor out.  
-```

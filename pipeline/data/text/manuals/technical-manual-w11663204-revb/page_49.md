@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 7. Tape the lid so it will not open when lifting the top panel.
@@ -19,4 +18,3 @@
 13. The top support bracket forms the top front edge of the cabinet.
 
 14. The support can be removed or replaced by removing four (4) 1/4" hex head screws, one in the top of each side panel and two in the middle that screw into the front support bracket.
-```

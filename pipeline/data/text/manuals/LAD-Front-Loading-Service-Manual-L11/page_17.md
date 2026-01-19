@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E12
@@ -18,4 +17,3 @@ E12
                     - No: replace the inner wire
                     - Yes: Replace the PCB.
                 - No: replace the water level sensor
-```

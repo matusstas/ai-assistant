@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E61
@@ -8,4 +7,3 @@ E61
       - Reconnect the terminals
     - No
       - Replace the motor and make sure the terminals are ok
-```

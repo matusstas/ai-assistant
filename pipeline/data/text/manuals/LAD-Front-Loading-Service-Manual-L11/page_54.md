@@ -1,4 +1,3 @@
-```markdown
 # 6 TROUBLESHOOTING
 
 ## 3. No water inlet or water inlet overtime
@@ -23,4 +22,3 @@
           - N: **Wait the water pressure meet the standard**
       - N: **Open the tap**
   - N: **Hang up the drain hose**
-```

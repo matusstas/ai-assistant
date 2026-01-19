@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 
 ## For Service Technician Use Only
@@ -35,4 +34,3 @@
 |                                    | Harness connections.      | Check harness connections between main control and drain pump.      |
 |                                    | Drain pump.               | See TEST #7: Drain Pump.                                           |
 |                                    | Main control problem.     | See TEST #1: Main Control.                                         |
-```

@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E80
@@ -19,4 +18,3 @@
         - No: 
           3. **Whether display panel communication terminal failure?**
              - Yes: It’s recommended that the user need to repair or change the main control board.
-```

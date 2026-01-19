@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 ### Transmission
@@ -23,4 +22,3 @@
     - **C.** Motor Connector
 
 12. Remove four (4) 10 mm hex head screws securing the transmission housing to the outer tub. These screws have high/low thread for use in plastic.
-```

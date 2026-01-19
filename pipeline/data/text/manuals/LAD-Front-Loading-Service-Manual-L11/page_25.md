@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E21
@@ -18,4 +17,3 @@
 4. If the resistance value of the water level sensor is not well, change the water level sensor. (Fig.13)
 
 ![Fig.10](Link to Fig.10)  ![Fig.11](Link to Fig.11)  ![Fig.12](Link to Fig.12)  ![Fig.13](Link to Fig.13)
-```

@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING
 ## For Service Technician Use Only
 
@@ -18,4 +17,3 @@
 |                                  | Not cleaning clothes.                 | 1. Washer not loaded properly. <br> 2. Not using HE detergent. <br> 3. Not using correct cycle. <br> 4. Shifter not moving into position (see TEST #3a: Drive System – Shifter). |
 |                                  | Fabric damage.                        | 1. Washer overloaded. <br> 2. Bleach added incorrectly. <br> 3. Sharp items in tub.        |
 |                                  | Wrong option or cycle selection.     | Select option or cycle appropriate for the load.                                            |
-```

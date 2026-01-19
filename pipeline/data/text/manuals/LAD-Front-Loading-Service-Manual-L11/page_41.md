@@ -9,4 +9,3 @@ E62
 |------------------|------------------------------|------------------------------------------------|
 | E62              | The SCR on the PCB is damaged| The SCR on the PCB is damaged                  |
 |                  |                              | The motor speed measuring device is damaged     |
-```

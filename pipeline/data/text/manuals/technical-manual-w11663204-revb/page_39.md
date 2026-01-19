@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT TESTING (CONT.)
 
 ![Figure - Drain Pump Strip Circuit](attachment://Drain_Pump_Strip_Circuit.png)
@@ -57,4 +56,3 @@ Perform the following checks if the washer does not lock (or unlock).
     d. Plug in washer or reconnect power. Calibrate washer and perform Quick Overview Test to verify repair.  
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer ■ 3-9
-```

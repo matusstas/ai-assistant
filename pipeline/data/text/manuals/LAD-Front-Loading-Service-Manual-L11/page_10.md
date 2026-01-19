@@ -1,4 +1,3 @@
-```markdown
 # 4 FACTORY PATTERN DETECTION
 
 ## 4.1 Service mode
@@ -20,4 +19,3 @@ Press [K1] or [K2] to select test program. Press [K7] to confirm your selection 
 | t02 Error code checking           | 1. Press [K7] button; <br> 2. Press [K1] to show the next code and press [K2] to show the last code; <br> 3. Press [K3] and [K4] button at the same time continuously for 3s, all the error code records deleted, LED displays “E00”. | LED displays “Exx” (x means error code)             |
 | t03 Version information checking   | Press [K7] button enter into service mode. <br> Press [K7] again, LED displays project number and version number in turn.                                 |                                                     |
 | t05 Drain-pump checking           | Press [K7] button to drain out all the remaining water.                                                                                                  | If all water drained out, LED displays “EP” or “good”, <br> After 20s, if there is still water remains in it, LED displays “FP” or “Err”. |
-```

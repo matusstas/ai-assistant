@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.) 
 ## For Service Technician Use Only
 
@@ -65,4 +64,3 @@ Press the START button to begin software display mode.
 
 ### Factory Diagnostics
 This is for factory use only, as it runs the Factory Cycle Template for testing the washer before it leaves the factory.
-```

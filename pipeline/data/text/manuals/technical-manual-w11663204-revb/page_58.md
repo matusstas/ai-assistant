@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 ### Drive Motor
@@ -25,4 +24,3 @@
 10. Pull the pulley off the splined shaft.
 
 **TECH TIP:** There is Loctite on this nut. It may be necessary to use a strap wrench to hold the pulley, to remove the nut.
-```

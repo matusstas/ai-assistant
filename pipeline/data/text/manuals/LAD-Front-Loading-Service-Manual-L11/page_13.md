@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E10
@@ -16,4 +15,3 @@
               - Whether the water level sensor is well?
                 - **No** → Change the water level sensor
                 - **Yes** → Check the wire connector and harness before replacing PCB.
-```

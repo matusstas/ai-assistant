@@ -1,4 +1,3 @@
-```markdown
 ## COMPONENT ACCESS (CONT.)
 
 10. Slide ball up off of the suspension rod.
@@ -32,4 +31,3 @@
 1. Remove Console and Top Panel Components.
 2. Remove Front Panel Components.
 3. Lay the washing machine on its back. Use corner posts or other material to lay the washer on.
-```

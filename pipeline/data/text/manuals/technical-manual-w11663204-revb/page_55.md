@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 ## Front Panel
@@ -31,4 +30,3 @@
 9. Rotate ball at the top to allow rod to align with the slot.
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer ■ 4-13
-```

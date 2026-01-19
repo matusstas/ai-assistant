@@ -1,4 +1,3 @@
-```markdown
 # 5. MALFUNCTION CODES AND EXPLANATIONS
 
 ## E33
@@ -25,4 +24,3 @@ Whether the connector is loosen between PCB terminal and internal wire terminal?
 - **No**: 
 
 Check the wire connector and harness before replacing PCB.
-```

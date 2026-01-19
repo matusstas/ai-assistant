@@ -1,4 +1,3 @@
-```markdown
 # 8 UNPACKING WAYS OF MAIN PARTS
 
 ### Undo the drum tub
@@ -15,4 +14,3 @@ I. Pull out the heater plug.
 II. Pull out the NTC.
 
 In the red circle it is the heater support, clamping the heater.
-```

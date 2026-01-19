@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 ## Console Open and Components
@@ -28,4 +27,3 @@
 †Torx and T20 are trademarks of Acument Intellectual Properties, LLC.
 
 4-2 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer
-```

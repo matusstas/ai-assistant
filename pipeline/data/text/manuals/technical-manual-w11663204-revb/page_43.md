@@ -1,4 +1,3 @@
-```markdown
 # Section 4: Component Access
 
 This section provides service parts access, removal, and replacement instructions for the “Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer.”
@@ -36,4 +35,3 @@ This section provides service parts access, removal, and replacement instruction
 - Transmission
 - Outer Tub
 - Cabinet
-```

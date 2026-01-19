@@ -1,4 +1,3 @@
-```markdown
 # 8 UNPACKING WAYS OF MAIN PARTS
 
 ## 4. Undo the door assembly
@@ -21,4 +20,3 @@ II. Take out the door lock and draw out the plug.
 I. Remove the lower cover.  
 II. Undo five screws in front plate  
 III. Put the front plate up to the clasp of the front plate away from the loading holder, and then take off the front plate.
-```

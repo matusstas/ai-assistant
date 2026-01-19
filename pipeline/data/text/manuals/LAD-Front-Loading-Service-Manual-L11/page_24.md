@@ -1,4 +1,3 @@
-```markdown
 5. MALFUNCTION CODES AND EXPLANATIONS
 
 E21
@@ -22,4 +21,3 @@ E21
 
 | Fig.5 | Fig.6 | Fig.7 |
 |-------|-------|-------|
-```

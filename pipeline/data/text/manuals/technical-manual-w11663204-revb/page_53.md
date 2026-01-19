@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 ## Agitator
@@ -21,4 +20,3 @@
 10. Use flat blade screwdriver to pry tabs to release agitator couple. Lift to remove.
 
 Maytag® 3.5 cu ft Commercial-Grade Residential Agitator Washer 4-11
-```

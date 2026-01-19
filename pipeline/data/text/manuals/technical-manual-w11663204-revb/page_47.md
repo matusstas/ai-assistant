@@ -1,4 +1,3 @@
-```markdown
 # COMPONENT ACCESS (CONT.)
 
 ## Selector Switches
@@ -29,4 +28,3 @@
    B. J15 Connector
 
 8. Press the locking tab and pull the plug for both the thermistor and water valves off the connector at J3. The thermistor is part of this wire harness. The replacement part includes the wire harness for the hot and cold water inlet valves and the thermistor.
-```

@@ -1,4 +1,3 @@
-```markdown
 # DIAGNOSTICS AND TROUBLESHOOTING (CONT.)
 ## For Service Technician Use Only
 
@@ -33,4 +32,3 @@ ESD problems are present everywhere. ESD may damage or weaken the electronic con
 
 ### IMPORTANT SAFETY NOTICE — "For Technicians only"
 This service data sheet is intended for use by persons having electrical, electronic, and mechanical experience and knowledge at a level generally considered acceptable in the appliance repair trade. Any attempt to repair a major appliance may result in personal injury and property damage. The manufacturer or seller cannot be responsible, nor assume any liability for injury or damage of any kind arising from the use of this data sheet.
-```

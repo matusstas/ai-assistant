@@ -1,4 +1,3 @@
-```markdown
 # 8 UNPACKING WAYS OF MAIN PARTS
 
 ## 9. Undo the drain pump
@@ -15,4 +14,3 @@ Rotate the pulley and at the same time pull out the belt.
 **Undo the motor**  
 I. Let the machine lie down on the back and then pull out the motor wire and grounding wire.  
 II. Use spanner to remove the motor screw, and lift up the motor with the other hand in case of falling to the drain pump.
-```
