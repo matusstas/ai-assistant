@@ -94,3 +94,8 @@ Open your browser and navigate to: [http://0.0.0.0:8080/](http://0.0.0.0:8080/)
 * **AI Assistant API**: [http://0.0.0.0:8080/docs](http://0.0.0.0:8080/docs)
 
 > You can use these endpoints to explore and test all available API routes with Swagger UI.
+
+
+## UI
+
+![image](demo.png)
